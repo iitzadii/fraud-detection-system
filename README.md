@@ -21,7 +21,7 @@ The final solution uses **Gradient Boosted Trees (LightGBM)** to capture complex
 Due to GitHub file size limitations, the dataset is **not included** in this repository.
 
 ### Dataset Source
-Add your dataset link here: [Fraud.csv]([url](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0))
+[Fraud.csv](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)
 
 
 After downloading, place the file in a `data/` directory:
@@ -113,11 +113,3 @@ To ensure long-term effectiveness:
 - Scikit-learn
 - LightGBM
 - Matplotlib, Seaborn
-
-## Repository Structure
-├── notebooks/
-│   └── fraud_detection.ipynb
-├── data/
-│   └── (dataset not included)
-├── README.md
-└── requirements.txt
